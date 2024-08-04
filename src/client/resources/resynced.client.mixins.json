@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "dev.ash.resynced.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ClientPlayerInteractionManagerMixin",
+		"ClientPlayNetworkHandlerMixin",
+		"LivingEntityAccessor",
+		"EntityAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
