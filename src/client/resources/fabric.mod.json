@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "resynced",
-	"version": "1.0",
+	"version": "1.0.1",
 	"name": "Resynced",
 	"description": "Fixes various multiplayer bugs.",
 	"authors": [

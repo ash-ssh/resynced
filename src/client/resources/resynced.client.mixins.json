@@ -6,6 +6,7 @@
 		"ClientPlayerInteractionManagerMixin",
 		"ClientPlayNetworkHandlerMixin",
 		"LivingEntityAccessor",
+		"LivingEntityMixin",
 		"EntityAccessor"
 	],
 	"injectors": {
