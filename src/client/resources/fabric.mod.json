@@ -8,6 +8,11 @@
 		"Ash"
 	],
 	"environment": "*",
+	"entrypoints": {
+		"client": [
+          "dev.ash.resynced.ResyncedModClient"
+		]
+	},
 	"mixins": [
 		"resynced.client.mixins.json"
 	],
